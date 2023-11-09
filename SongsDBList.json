@@ -1,0 +1,531 @@
+[
+{
+    "Title": "Lost",
+    "Album": "channel ORANGE", 
+    "Artists": {
+        "Main Artist": "Frank Ocean"
+    },
+    "Genre": ["R&B", "Rap", "Hip-Hop", "Pop"],
+    "Length": "2:43",
+    "ReleaseDate": {"Month": 7, "Day": 10, "Year": 2012}
+},
+{
+    "Title": "Flashing Lights",
+    "Album": "Graduation", 
+    "Artists": {
+        "Main Artist": "Kanye West",
+        "Featuring Artists": ["Dwele"]
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "3:58",
+    "ReleaseDate": {"Month": 9, "Day": 11, "Year": 2007}
+},
+{
+    "Title": "The Way I Are",
+    "Album": "Shock Value", 
+    "Artists": {
+        "Main Artist": "Timbaland",
+        "Featuring Artists": ["Keri Hilson", "D.O.E."]
+    },
+    "Genre": ["Hip-Hop", "Pop", "R&B"],
+    "Length": "2:59",
+    "ReleaseDate": {"Month": 5, "Day": 2, "Year": 2007}
+},
+{
+    "Title": "Be Right There",
+    "Album": "Be Right There", 
+    "Artists": {
+        "Main Artist": "Diplo",
+        "Featuring Artists": ["Sleepy Tom"]
+    },
+    "Genre": ["Electronic", "Dance", "Future House"],
+    "Length": "3:57",
+    "ReleaseDate": {"Month": 8, "Day": 28, "Year": 2015}
+},
+{
+    "Title": "Shut Up And Drive",
+    "Album": "Good Girl Gone Bad", 
+    "Artists": {
+        "Main Artist": "Rihanna"
+    },
+    "Genre": ["Hip-Hop", "Pop", "R&B"],
+    "Length": "3:31",
+    "ReleaseDate": {"Month": 6, "Day": 2, "Year": 2008}
+},
+{
+    "Title": "Umbrella",
+    "Album": "Good Girl Gone Bad", 
+    "Artists": {
+        "Main Artist": "Rihanna",
+        "Featuring Artists": ["Jay-Z"]
+    },
+    "Genre": ["Hip-Hop", "Pop", "R&B"],
+    "Length": "4:35",
+    "ReleaseDate": {"Month": 6, "Day": 2, "Year": 2008}
+},
+{
+    "Title": "If I Never See Your Face Again",
+    "Album": "Good Girl Gone Bad", 
+    "Artists": {
+        "Main Artist": "Rihanna",
+        "Featuring Artists": ["Maroon 5"]
+    },
+    "Genre": ["Hip-Hop", "Pop", "R&B"],
+    "Length": "3:17",
+    "ReleaseDate": {"Month": 6, "Day": 2, "Year": 2008}
+},
+{
+    "Title": "Said Sum",
+    "Album": "Code Red", 
+    "Artists": {
+        "Main Artist": "Moneybagg Yo"
+    },
+    "Genre": ["Hip-Hop", "Rap"],
+    "Length": "2:34",
+    "ReleaseDate": {"Month": 8, "Day": 18, "Year": 2020}
+}, 
+{
+    "Title": "SRT",
+    "Album": "Code Red", 
+    "Artists": {
+        "Main Artist": "Moneybagg Yo",
+        "Featuring Artists": ["Pooh Shiesty", "BIG30"]
+    },
+    "Genre": ["Hip-Hop", "Rap"],
+    "Length": "2:36",
+    "ReleaseDate": {"Month": 8, "Day": 18, "Year": 2020}
+},
+{
+    "Title": "Three Little Birds",
+    "Album": "Exodus", 
+    "Artists": {
+        "Main Artist": "Bob Marley & The Wailers"
+    },
+    "Genre": ["Reggae"],
+    "Length": "2:59",
+    "ReleaseDate": {"Month": 6, "Day": 3, "Year": 1977}
+},
+{
+    "Title": "Jamming",
+    "Album": "Exodus", 
+    "Artists": {
+        "Main Artist": "Bob Marley & The Wailers"
+    },
+    "Genre": ["Reggae"],
+    "Length": "3:30",
+    "ReleaseDate": {"Month": 6, "Day": 3, "Year": 1977}
+},
+{
+    "Title": "Disrespectful",
+    "Album": "Without Warning", 
+    "Artists": {
+        "Main Artist": "21 Savage", 
+        "Featuring Artists": ["Offset", "Metro Boomin"]    
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "2:40",
+    "ReleaseDate": {"Month": 10, "Day": 30, "Year": 2017}
+},
+{
+    "Title": "Nightmare",
+    "Album": "Without Warning", 
+    "Artists": {
+        "Main Artist": "Offset", 
+        "Featuring Artists": ["Metro Boomin"]    
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "2:27",
+    "ReleaseDate": {"Month": 10, "Day": 30, "Year": 2017}
+},
+{
+    "Title": "Rap Saved Me",
+    "Album": "Without Warning", 
+    "Artists": {
+        "Main Artist": "21 Savage", 
+        "Featuring Artists": ["Offset", "Metro Boomin", "Quavo"]    
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "4:17",
+    "ReleaseDate": {"Month": 10, "Day": 30, "Year": 2017}
+},
+{
+    "Title": "On Sight",
+    "Album": "Yeezus", 
+    "Artists": {
+        "Main Artist": "Kanye West"  
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "2:36",
+    "ReleaseDate": {"Month": 6, "Day": 18, "Year": 2013}
+},
+{
+    "Title": "Black Skinhead",
+    "Album": "Yeezus", 
+    "Artists": {
+        "Main Artist": "Kanye West"  
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "3:08",
+    "ReleaseDate": {"Month": 6, "Day": 18, "Year": 2013}
+},
+{
+    "Title": "Just the Two of Us",
+    "Album": "Anthology", 
+    "Artists": {
+        "Main Artist": "Grover Washington Jr.",
+        "Featuring Artists": ["Bill Withers"]  
+    },
+    "Genre": ["Jazz"],
+    "Length": "7:18",
+    "ReleaseDate": {"Month": null, "Day": null, "Year": 1985}
+},
+{
+    "Title": "Dreams",
+    "Album": "Rumors", 
+    "Artists": {
+        "Main Artist": "Fleetwood Mac"
+    },
+    "Genre": ["Soft Rock", "Rock"],
+    "Length": "4:14",
+    "ReleaseDate": {"Month": null, "Day": null, "Year": 1977}
+},
+{
+    "Title": "Gypsy",
+    "Album": "Mirage", 
+    "Artists": {
+        "Main Artist": "Fleetwood Mac"
+    },
+    "Genre": ["Soft Rock", "Rock"],
+    "Length": "4:24",
+    "ReleaseDate": {"Month": null, "Day": null, "Year": 1982}
+},
+{
+    "Title": "Who Made Who",
+    "Album": "Who Made Who", 
+    "Artists": {
+        "Main Artist": "AC/DC"
+    },
+    "Genre": ["Hard Rock", "Rock"],
+    "Length": "3:27",
+    "ReleaseDate": {"Month": 5, "Day": 24, "Year": 1986}
+},
+{
+    "Title": "Hells Bells",
+    "Album": "Who Made Who", 
+    "Artists": {
+        "Main Artist": "AC/DC"
+    },
+    "Genre": ["Hard Rock", "Rock"],
+    "Length": "5:12",
+    "ReleaseDate": {"Month": 5, "Day": 24, "Year": 1986}
+},
+{
+    "Title": "D4L",
+    "Album": "Dark Lane Demo Tapes", 
+    "Artists": {
+        "Main Artist": "Drake",
+        "Featuring Artists": ["Future", "Young Thug"]  
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "3:09",
+    "ReleaseDate": {"Month": 5, "Day": 1, "Year": 2020}
+},
+{
+    "Title": "Chicago Freestyle",
+    "Album": "Dark Lane Demo Tapes", 
+    "Artists": {
+        "Main Artist": "Drake",
+        "Featuring Artists": ["Giveon"]  
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "3:40",
+    "ReleaseDate": {"Month": 5, "Day": 1, "Year": 2020}
+},
+{
+    "Title": "Pain 1993",
+    "Album": "Dark Lane Demo Tapes", 
+    "Artists": {
+        "Main Artist": "Drake",
+        "Featuring Artists": ["Playboy Carti"]  
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "2:29",
+    "ReleaseDate": {"Month": 5, "Day": 1, "Year": 2020}
+},
+{
+    "Title": "Location",
+    "Album": "Playboy Carti", 
+    "Artists": {
+        "Main Artist": "Playboy Carti"
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "2:48",
+    "ReleaseDate": {"Month": 4, "Day": 14, "Year": 2017}
+},
+{
+    "Title": "wokeuplikethis*",
+    "Album": "Playboy Carti", 
+    "Artists": {
+        "Main Artist": "Playboy Carti"
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "3:55",
+    "ReleaseDate": {"Month": 4, "Day": 14, "Year": 2017}
+},
+{
+    "Title": "Sauce It Up",
+    "Album": "Luv Is Rage 2", 
+    "Artists": {
+        "Main Artist": "Lil Uzi Vert"
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "3:27",
+    "ReleaseDate": {"Month": 8, "Day": 25, "Year": 2017}
+},
+{
+    "Title": "X",
+    "Album": "Luv Is Rage 2", 
+    "Artists": {
+        "Main Artist": "Lil Uzi Vert"
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "2:53",
+    "ReleaseDate": {"Month": 8, "Day": 25, "Year": 2017}
+},
+{
+    "Title": "How To Talk",
+    "Album": "Luv Is Rage 2", 
+    "Artists": {
+        "Main Artist": "Lil Uzi Vert"
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "3:21",
+    "ReleaseDate": {"Month": 8, "Day": 25, "Year": 2017}
+},
+{
+    "Title": "Neon Guts",
+    "Album": "Luv Is Rage 2", 
+    "Artists": {
+        "Main Artist": "Lil Uzi Vert",
+        "Featuring Artists": ["Pharrell Williams"] 
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "4:18",
+    "ReleaseDate": {"Month": 8, "Day": 25, "Year": 2017}
+},
+{
+    "Title": "The Less I Know The Better",
+    "Album": "Currents", 
+    "Artists": {
+        "Main Artist": "Tame Impala"
+    },
+    "Genre": ["Alternative", "Indie"],
+    "Length": "3:36",
+    "ReleaseDate": {"Month": 7, "Day": 17, "Year": 2015}
+},
+{
+    "Title": "Let It Happen",
+    "Album": "Currents", 
+    "Artists": {
+        "Main Artist": "Tame Impala"
+    },
+    "Genre": ["Alternative", "Indie"],
+    "Length": "7:47",
+    "ReleaseDate": {"Month": 7, "Day": 17, "Year": 2015}
+},
+{
+    "Title": "Past Life",
+    "Album": "Currents", 
+    "Artists": {
+        "Main Artist": "Tame Impala"
+    },
+    "Genre": ["Alternative", "Indie"],
+    "Length": "3:48",
+    "ReleaseDate": {"Month": 7, "Day": 17, "Year": 2015}
+},
+{
+    "Title": "Love/Paranoia",
+    "Album": "Currents", 
+    "Artists": {
+        "Main Artist": "Tame Impala"
+    },
+    "Genre": ["Alternative", "Indie"],
+    "Length": "3:05",
+    "ReleaseDate": {"Month": 7, "Day": 17, "Year": 2015}
+},
+{
+    "Title": "Borderline",
+    "Album": "The Slow Rush", 
+    "Artists": {
+        "Main Artist": "Tame Impala"
+    },
+    "Genre": ["Alternative", "Indie"],
+    "Length": "3:57",
+    "ReleaseDate": {"Month": 2, "Day": 14, "Year": 2020}
+},
+{
+    "Title": "Is It True",
+    "Album": "The Slow Rush", 
+    "Artists": {
+        "Main Artist": "Tame Impala"
+    },
+    "Genre": ["Alternative", "Indie"],
+    "Length": "3:59",
+    "ReleaseDate": {"Month": 2, "Day": 14, "Year": 2020}
+},
+{
+    "Title": "SOS",
+    "Album": "SOS", 
+    "Artists": {
+        "Main Artist": "SZA"
+    },
+    "Genre": ["R&B", "Soul", "Hip-Hop"],
+    "Length": "1:57",
+    "ReleaseDate": {"Month": 12, "Day": 9, "Year": 2022}
+},
+{
+    "Title": "Used",
+    "Album": "SOS", 
+    "Artists": {
+        "Main Artist": "SZA",
+        "Featuring Artists": ["Don Toliver"]  
+    },
+    "Genre": ["R&B", "Soul", "Hip-Hop"],
+    "Length": "2:26",
+    "ReleaseDate": {"Month": 12, "Day": 9, "Year": 2022}
+},
+{
+    "Title": "Open Arms",
+    "Album": "SOS", 
+    "Artists": {
+        "Main Artist": "SZA",
+        "Featuring Artists": ["Travis Scott"]  
+    },
+    "Genre": ["R&B", "Soul", "Hip-Hop"],
+    "Length": "3:58",
+    "ReleaseDate": {"Month": 12, "Day": 9, "Year": 2022}
+},
+{
+    "Title": "What's My Age Again?",
+    "Album": "Enema Of The State", 
+    "Artists": {
+        "Main Artist": "blink-182"
+    },
+    "Genre": ["Pop-Punk", "Punk-Rock", "Alternative"],
+    "Length": "2:28",
+    "ReleaseDate": {"Month": 6, "Day": 1, "Year": 1999}
+},
+{
+    "Title": "All The Small Things",
+    "Album": "Enema Of The State", 
+    "Artists": {
+        "Main Artist": "blink-182"
+    },
+    "Genre": ["Pop-Punk", "Punk-Rock", "Alternative"],
+    "Length": "2:46",
+    "ReleaseDate": {"Month": 6, "Day": 1, "Year": 1999}
+},
+{
+    "Title": "SMELLS LIKE INCENSE",
+    "Album": "Sweet Action", 
+    "Artists": {
+        "Main Artist": "Jack Harlow"
+    },
+    "Genre": ["Hip-Hop", "Rap"],
+    "Length": "2:24",
+    "ReleaseDate": {"Month": 4, "Day": 13, "Year": 2020}
+},
+{
+    "Title": "OUT FRONT",
+    "Album": "Sweet Action", 
+    "Artists": {
+        "Main Artist": "Jack Harlow"
+    },
+    "Genre": ["Hip-Hop", "Rap"],
+    "Length": "2:58",
+    "ReleaseDate": {"Month": 4, "Day": 13, "Year": 2020}
+},
+{
+    "Title": "Already Best Friends",
+    "Album": "That What They All Say", 
+    "Artists": {
+        "Main Artist": "Jack Harlow",
+        "Featuring Artists": ["Chris Brown"]
+    },
+    "Genre": ["Hip-Hop", "Rap"],
+    "Length": "3:17",
+    "ReleaseDate": {"Month": 12, "Day": 11, "Year": 2020}
+},
+{
+    "Title": "Route 66",
+    "Album": "That What They All Say", 
+    "Artists": {
+        "Main Artist": "Jack Harlow",
+        "Featuring Artists": ["EST Gee"]
+    },
+    "Genre": ["Hip-Hop", "Rap"],
+    "Length": "2:33",
+    "ReleaseDate": {"Month": 12, "Day": 11, "Year": 2020}
+},
+{
+    "Title": "Luv Is Dro",
+    "Album": "That What They All Say", 
+    "Artists": {
+        "Main Artist": "Jack Harlow",
+        "Featuring Artists": ["Static Major", "Bryson Tiller"]
+    },
+    "Genre": ["Hip-Hop", "Rap"],
+    "Length": "2:57",
+    "ReleaseDate": {"Month": 12, "Day": 11, "Year": 2020}
+},
+{
+    "Title": "Wasted On You",
+    "Album": "Dangerous: The Double Album", 
+    "Artists": {
+        "Main Artist": "Morgan Wallen"
+    },
+    "Genre": ["Country"],
+    "Length": "2:58",
+    "ReleaseDate": {"Month": 1, "Day": 8, "Year": 2021}
+},
+{
+    "Title": "Me On Whiskey",
+    "Album": "Dangerous: The Double Album", 
+    "Artists": {
+        "Main Artist": "Morgan Wallen"
+    },
+    "Genre": ["Country"],
+    "Length": "3:30",
+    "ReleaseDate": {"Month": 1, "Day": 8, "Year": 2021}
+},
+{
+    "Title": "Silverado For Sale",
+    "Album": "Dangerous: The Double Album", 
+    "Artists": {
+        "Main Artist": "Morgan Wallen"
+    },
+    "Genre": ["Country"],
+    "Length": "3:44",
+    "ReleaseDate": {"Month": 1, "Day": 8, "Year": 2021}
+},
+{
+    "Title": "Dangerous",
+    "Album": "Dangerous: The Double Album", 
+    "Artists": {
+        "Main Artist": "Morgan Wallen"
+    },
+    "Genre": ["Country"],
+    "Length": "2:27",
+    "ReleaseDate": {"Month": 1, "Day": 8, "Year": 2021}
+},
+{
+    "Title": "Famous",
+    "Album": "The Life of Pablo", 
+    "Artists": {
+        "Main Artist": "Kanye West"
+    },
+    "Genre": ["Rap", "Hip-Hop"],
+    "Length": "3:16",
+    "ReleaseDate": {"Month": 6, "Day": 10, "Year": 2016}
+}
+]
